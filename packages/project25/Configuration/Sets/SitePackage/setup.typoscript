@@ -1,0 +1,21 @@
+page {
+    includeCSS {
+        theme = EXT:project25/Resources/Public/Scss/Theme/theme.scss
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        project25_scripts = EXT:project25/Resources/Public/JavaScript/main.js
+    }
+}
