@@ -1,24 +1,2 @@
-# IDE/Editor
+vendor/
 .idea/
-*.iml
-
-# TYPO3 / Composer / Vendor
-/vendor/
-/typo3temp/
-/var/
-/web/typo3temp/
-/node_modules/
-
-# Root public Ordner – alles ignorieren, außer unser Sitepackage
-public/
-
-# Sitepackage Projekt25 EXPLICIT TRACKEN
-!projekt25/
-!projekt25/Resources/
-!projekt25/Resources/Public/
-!projekt25/Resources/Public/**
-
-# Cache & Logs
-*.log
-*.cache
-.DS_Store
